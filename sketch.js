@@ -103,12 +103,6 @@ function mouseReleased(){
   gameState = "lanched";
   }
 
-function Reset() {
-  if (keyCode === SPACE)
-  EstadoJogo = INICIAL;
-
-}
-
 
   function detectollision(lstone,lmango){
 
